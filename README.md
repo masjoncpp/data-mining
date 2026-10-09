@@ -9,8 +9,6 @@ Dokumentasi Progres Mingguan Mahasiswa untuk Dosen Pembimbing / Pengampu Mata Ku
 | :--- | :--- | :--- | :--- | :--- |
 | **Minggu 1** | `c1-m1.ipynb` | Metodologi CRISP-DM, Taksonomi ML, NumPy & Pandas | 23 September 2026 | ✅ Selesai |
 | **Minggu 2** | `c1-m2.ipynb` | Data Retrieval (CSV, JSON, SQL, NoSQL) & Data Cleansing (Missing Values, Outliers) | 9 Oktober 2026 | ✅ Selesai |
-| **Minggu 3** | `c1-m3.ipynb` | Exploratory Data Analysis (EDA) & Feature Engineering | - | ⏳ Mendatang |
-| **Minggu 4** | `c1-m4.ipynb` | Inferensial Statistik, Distribusi Probabilitas & Uji Hipotesis | - | ⏳ Mendatang |
 
 ---
 
