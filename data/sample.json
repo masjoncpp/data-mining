@@ -1,0 +1,122 @@
+[
+  {
+    "customer_id": "CUST_0000",
+    "category": "Tech",
+    "age": 51,
+    "spend": 228.29
+  },
+  {
+    "customer_id": "CUST_0001",
+    "category": "Tech",
+    "age": 44,
+    "spend": 272.89
+  },
+  {
+    "customer_id": "CUST_0002",
+    "category": "Home",
+    "age": 28,
+    "spend": 557.74
+  },
+  {
+    "customer_id": "CUST_0003",
+    "category": "Home",
+    "age": 21,
+    "spend": 1076.82
+  },
+  {
+    "customer_id": "CUST_0004",
+    "category": "Home",
+    "age": 44,
+    "spend": 406.55
+  },
+  {
+    "customer_id": "CUST_0005",
+    "category": "Fashion",
+    "age": 28,
+    "spend": 588.71
+  },
+  {
+    "customer_id": "CUST_0006",
+    "category": "Tech",
+    "age": 49,
+    "spend": 91.45
+  },
+  {
+    "customer_id": "CUST_0007",
+    "category": "Home",
+    "age": 59,
+    "spend": 1122.72
+  },
+  {
+    "customer_id": "CUST_0008",
+    "category": "Fashion",
+    "age": 55,
+    "spend": 655.84
+  },
+  {
+    "customer_id": "CUST_0009",
+    "category": "Fashion",
+    "age": 25,
+    "spend": 578.6
+  },
+  {
+    "customer_id": "CUST_0010",
+    "category": "Fashion",
+    "age": 28,
+    "spend": 457.74
+  },
+  {
+    "customer_id": "CUST_0011",
+    "category": "Tech",
+    "age": 32,
+    "spend": 421.78
+  },
+  {
+    "customer_id": "CUST_0012",
+    "category": "Home",
+    "age": 21,
+    "spend": 846.22
+  },
+  {
+    "customer_id": "CUST_0013",
+    "category": "Tech",
+    "age": 39,
+    "spend": 123.84
+  },
+  {
+    "customer_id": "CUST_0014",
+    "category": "Tech",
+    "age": 47,
+    "spend": 833.76
+  },
+  {
+    "customer_id": "CUST_0015",
+    "category": "Tech",
+    "age": 52,
+    "spend": 984.58
+  },
+  {
+    "customer_id": "CUST_0016",
+    "category": "Fashion",
+    "age": 36,
+    "spend": 109.81
+  },
+  {
+    "customer_id": "CUST_0017",
+    "category": "Fashion",
+    "age": 27,
+    "spend": 264.92
+  },
+  {
+    "customer_id": "CUST_0018",
+    "category": "Fashion",
+    "age": 51,
+    "spend": 443.1
+  },
+  {
+    "customer_id": "CUST_0019",
+    "category": "Fashion",
+    "age": 37,
+    "spend": 344.21
+  }
+]
